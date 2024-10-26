@@ -1,0 +1,30 @@
+gpio0	heater_pin
+gpio1	Обдув термобарьера
+gpio2	
+gpio3	обдув модели
+gpio4	extruder dir_pin
+gpio5	extruder step_pin
+gpio6	extruder uart_pin
+gpio7	
+gpio8	
+gpio9	
+gpio10	extruder enable_pin
+gpio11	Bl-touch control pin
+gpio12	adxl spi_software_miso_pin
+gpio13	adxl cs_pin
+gpio14	adxl spi_software_sclk_pin
+gpio15	adxl spi_software_mosi_pin
+gpio16	
+gpio17	
+gpio18	
+gpio19	
+gpio20	
+gpio21	Probe/ Bl-touch sensor pin
+gpio22	
+gpio23	
+gpio24	
+gpio25	
+gpio26 -adc	termistor sensor_pin
+gpio27 -adc	
+gpio28 -adc	
+gpio29 -adc	
