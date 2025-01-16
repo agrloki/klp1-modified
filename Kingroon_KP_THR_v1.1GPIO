@@ -27,4 +27,4 @@ gpio25
 gpio26 -adc	termistor sensor_pin
 gpio27 -adc	
 gpio28 -adc	
-gpio29 -adc	
+gpio29 -adc	mt-det
